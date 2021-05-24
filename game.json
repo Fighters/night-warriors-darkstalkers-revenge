@@ -1,0 +1,98 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Night Warriors: Darkstalkers' Revenge"
+		},
+		{
+			"region": "japan",
+			"roman": "Vampire Hunter: Darkstalkers' Revenge",
+			"original": "ヴァンパイア ハンター ダークストーカーズ レベンジ"
+		}
+	],
+	"also-known-as": [
+		"vh",
+		"darkstalkers 2",
+		"ds2",
+		"nw",
+		"buchada lover"
+	],
+	"platforms": [
+		{
+			"name": "Arcade",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Vampire Hunter: Darkstalkers' Revenge",
+					"original": "ヴァンパイア ハンター ダークストーカーズ レベンジ",
+					"releaseDate": "03-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"name": "United States",
+					"roman": "Night Warriors: Darkstalkers' Revenge",
+					"releaseDate": "1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"name": "Europe",
+					"roman": "Night Warriors: Darkstalkers' Revenge",
+					"releaseDate": "1995",
+					"developer": "Capcom",
+					"publisher": "Electrocoin"
+				}
+			]
+		},
+		{
+			"name": "Saturn",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Vampire Hunter: Darkstalkers' Revenge",
+					"original": "ヴァンパイア ハンター ダークストーカーズ レベンジ",
+					"releaseDate": "02-22-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "United States",
+					"roman": "Night Warriors: Darkstalkers' Revenge",
+					"releaseDate": "02-23-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "Europe",
+					"roman": "Night Warriors: Darkstalkers' Revenge",
+					"releaseDate": "1996",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": ""
+				},
+				{
+					"name": "South America",
+					"roman": "Night Warriors: Darkstalkers' Revenge",
+					"releaseDate": "1996",
+					"developer": "Capcom",
+					"publisher": "Tec Toy",
+					"coverFront": ""
+				}
+			]
+		}
+	],
+	"features": [
+		{
+			"name": "Enhanced Specials"
+		},
+		{
+			"name": "EX Moves"
+		},
+		{
+			"name": "Guard Cancel"
+		}
+	]
+}
